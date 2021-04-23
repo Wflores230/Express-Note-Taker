@@ -12,14 +12,13 @@ start the server:
 ```
 npm start
 ```
-and direct your browser to http://localhost:3000
+and direct your browser to http://localhost:8080
 
 ## Description
 
 This is a Note Taker application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. There is a started page and 
 
 The application’s uses html, css, node.js and npm packaging.
-
 
 ## Expectation
 
@@ -29,5 +28,7 @@ The application’s uses html, css, node.js and npm packaging.
 4. When you click on an existing note in the list in the left-hand column then that note appears in the right-hand column.
 
 ## Screenshots
+![IMG_4534](https://user-images.githubusercontent.com/76802722/115939069-db707100-a46a-11eb-8fda-fe4d15bf84d8.jpeg)
+![IMG_4535](https://user-images.githubusercontent.com/76802722/115939090-f7741280-a46a-11eb-8d14-cefdf1189df0.jpeg)
 
 ## Link
